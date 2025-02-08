@@ -28,4 +28,4 @@ A Software Engineer with two years of professional experience, having worked as 
 <br>
 • Learning **Jetpack Compose** for modern Android UI development.
 <br>
-• Diving deeper into **Advanced SQL** from *Modern Database Management*.
+• Diving deeper into the concepts of **Distributed Systems** and **Data Architecture** from *Designing Data-Intensive Applications*.
