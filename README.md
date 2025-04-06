@@ -4,7 +4,7 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AtharvaHankare) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/atharvah09)
 <br>
-A Software Engineer with two years of professional experience, having worked as a Full Stack Developer at LTIMindtree in the insurance domain. I’m currently pursuing my Master’s in Software Engineering Systems at Northeastern University, with a focus on backend engineering and cloud technologies. I’m passionate about staying up-to-date with the latest technology trends, whether it’s through coding, cloud solutions, or leveraging data for better insights.
+A Software Engineer with two years of professional experience, having worked as a Full Stack Developer at LTIMindtree in the insurance domain. I’m currently pursuing my Master’s in Computer Software Engineering at Northeastern University, with a focus on backend engineering and cloud technologies. I’m passionate about staying up-to-date with the latest technology trends, whether it’s through coding, cloud solutions, or leveraging data for better insights.
 
 ## 🛠️ Technical Skills
 **Languages**
